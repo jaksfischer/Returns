@@ -29,6 +29,14 @@ composer require jakson-fischer/returns
 
 ### Exemplos de uso
 
+#### Chamada da classe
+
+´´´php
+use JaksonFischer\Returns\Returns
+
+echo Returns::toJson(true, "Test success message", NULL, NULL, 200);
+´´´
+
 #### toArray
 
 **Entrada:**
@@ -136,6 +144,15 @@ composer require jakson-fischer/returns
 - **jsonDataReturn**: Returns the sent data encapsulated in JSON under the `data` key.
 
 ### Usage examples
+
+
+#### Call class
+
+´´´php
+use JaksonFischer\Returns\Returns
+
+echo Returns::toJson(true, "Test success message", NULL, NULL, 200);
+´´´
 
 #### toArray
 
