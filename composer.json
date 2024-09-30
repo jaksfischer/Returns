@@ -1,0 +1,20 @@
+{
+    "name": "JaksonFischer/Returns",
+    "description": "Classe para padronizar retornos em sistemas",
+    "type": "library",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "JaksonFischer\\Returns\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jakson Fischer",
+            "email": "jakson.jfischer@gmail.com"
+        }
+    ]
+}
