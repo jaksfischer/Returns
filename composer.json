@@ -1,5 +1,5 @@
 {
-    "name": "JaksonFischer/returns",
+    "name": "jakson-fischer/returns",
     "description": "Classe para padronizar retornos em sistemas",
     "type": "library",
     "require": {
@@ -7,7 +7,7 @@
     },
     "autoload": {
         "psr-4": {
-            "JaksonFischer\\returns\\": "src/"
+            "jakson-fischer\\returns\\": "src/"
         }
     },
     "license": "MIT",
