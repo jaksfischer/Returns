@@ -10,7 +10,7 @@ Módulo criado para padronização de retornos de sistemas e APIs. O módulo pod
 Para instalar o módulo via Composer, execute o seguinte comando:
 
 ```
-composer require jaksfischer/returns
+composer require jakson-fischer/returns
 ```
 
 ### Parâmetros
@@ -118,7 +118,7 @@ This module was created to standardize the returns for systems and APIs. It can 
 To install the module via Composer, run the following command:
 
 ```
-composer require jaksfischer/returns
+composer require jakson-fischer/returns
 ```
 
 ### Parameters
