@@ -20,7 +20,7 @@
         {
             "name": "Jakson Fischer",
             "email": "jakson.jfischer@gmail.com",
-            "role": "Developer"
+            "role": "Developer",
         }
     ],
     "minimum-stability": "dev",
