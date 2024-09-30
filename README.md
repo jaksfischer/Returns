@@ -32,7 +32,7 @@ composer require jakson-fischer/returns
 #### Chamada da classe
 
 ```php
-use JaksonFischer\Returns\Returns
+use JaksonFischer\Returns\Returns;
 
 echo Returns::toJson(true, "Test success message", NULL, NULL, 200);
 ```
@@ -149,7 +149,7 @@ composer require jakson-fischer/returns
 #### Call class
 
 ```php
-use JaksonFischer\Returns\Returns
+use JaksonFischer\Returns\Returns;
 
 echo Returns::toJson(true, "Test success message", NULL, NULL, 200);
 ```
