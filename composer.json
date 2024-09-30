@@ -1,20 +1,26 @@
 {
     "name": "jakson-fischer/returns",
     "description": "Classe para padronizar retornos em sistemas",
+    "keywords": [
+        "formater",
+        "returns",
+        "padronizar"
+    ],
     "type": "library",
     "require": {
         "php": ">=7.4"
     },
     "autoload": {
         "psr-4": {
-            "jakson-fischer\\returns\\": "src/"
+            "jakson-fischer\\returns\\": "src"
         }
     },
     "license": "MIT",
     "authors": [
         {
             "name": "Jakson Fischer",
-            "email": "jakson.jfischer@gmail.com"
+            "email": "jakson.jfischer@gmail.com",
+            "role": "Developer"
         }
     ]
 }
