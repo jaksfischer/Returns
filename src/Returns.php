@@ -1,13 +1,12 @@
 <?php
 /**
- * @author Jakson Fischer <jakson.fischer@h2grupo.com>
- * @copyright H2 Grupo
+ * @author Jakson Fischer <jakson.jfischer@gmail.com>
  * This class is responsible for standardizing returns for the system
  */
 class Returns
 {
     /**
-     * @author Jakson Fischer <jakson.fischer@h2grupo.com>
+     * @author Jakson Fischer <jakson.jfischer@gmail.com>
      * Function to return all data in array
      * @param bool $status
      * @param string $message
@@ -28,7 +27,7 @@ class Returns
     }
 
     /**
-     * @author Jakson Fischer <jakson.fischer@h2grupo.com>
+     * @author Jakson Fischer <jakson.jfischer@gmail.com>
      * Function to return data in json
      * @param bool $status
      * @param string $message
@@ -43,7 +42,7 @@ class Returns
     }
 
     /**
-     * @author Jakson Fischer <jakson.fischer@h2grupo.com>
+     * @author Jakson Fischer <jakson.jfischer@gmail.com>
      * Function to return in array with data
      * @param bool $status
      * @param string $message
@@ -62,7 +61,7 @@ class Returns
     }
 
     /**
-     * @author Jakson Fischer <jakson.fischer@h2grupo.com>
+     * @author Jakson Fischer <jakson.jfischer@gmail.com>
      * Function to return in json with data
      * @param bool $status
      * @param string $message
