@@ -22,5 +22,7 @@
             "email": "jakson.jfischer@gmail.com",
             "role": "Developer"
         }
-    ]
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true"
 }
