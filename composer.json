@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "jakson-fischer\\returns\\": "src"
+            "JaksonFischer\\returns\\": "src/"
         }
     },
     "license": "MIT",
