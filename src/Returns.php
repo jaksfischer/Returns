@@ -1,4 +1,6 @@
 <?php
+
+namespace JaksonFischer\Returns;
 /**
  * @author Jakson Fischer <jakson.jfischer@gmail.com>
  * This class is responsible for standardizing returns for the system
