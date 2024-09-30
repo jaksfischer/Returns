@@ -31,11 +31,11 @@ composer require jakson-fischer/returns
 
 #### Chamada da classe
 
-´´´php
+```php
 use JaksonFischer\Returns\Returns
 
 echo Returns::toJson(true, "Test success message", NULL, NULL, 200);
-´´´
+```
 
 #### toArray
 
@@ -148,11 +148,11 @@ composer require jakson-fischer/returns
 
 #### Call class
 
-´´´php
+```php
 use JaksonFischer\Returns\Returns
 
 echo Returns::toJson(true, "Test success message", NULL, NULL, 200);
-´´´
+```
 
 #### toArray
 
